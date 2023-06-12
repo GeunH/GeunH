@@ -8,9 +8,7 @@
   <img src="https://img.shields.io/badge/C++-3776AB.svg?&style=for-the-badge&logo=cplusplus&logoColor=yellow" alt="C++">
 </p>
 
-
-
-
+![GeunH's GitHub stats](https://github-readme-stats.vercel.app/api?username=kc1595&show_icons=true&theme=dark)
 
 ## 공부한 프로그래밍 언어
 - 🌱 I’m currently learning javascript, dart, C++, C, Python
