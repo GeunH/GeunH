@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>👋   Geun Hyeok    👋 </h1>
+  <div>
+  <h1>👋 Geun Hyeok  👋</h1>
+  <p style="font-size: 14px;">인천대학교 임베디드시스템공학과</p>
+</div>
   <p align="center">
   <a href="https://solved.ac/kc1595"><img src="http://mazassumnida.wtf/api/generate_badge?boj=kc1595" alt="Solved.ac 프로필" width="350"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
