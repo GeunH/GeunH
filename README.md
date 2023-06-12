@@ -1,5 +1,6 @@
 <div align="center">
-  <h2>👋    Skills    👋</h2>
+  <h1>👋   Geun Hyeok    👋</h1>
+  <h2>    Skills    </h2>
   <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">&nbsp;&nbsp;
