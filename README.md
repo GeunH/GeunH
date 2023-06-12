@@ -7,8 +7,11 @@
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black" alt="C">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C++-3776AB.svg?&style=for-the-badge&logo=cplusplus&logoColor=yellow" alt="C++">
 </p>
-
-![GeunH's GitHub stats](https://github-readme-stats.vercel.app/api?username=kc1595&show_icons=true&theme=dark)
+<p align="center">
+  <a href="https://solved.ac/kc1595"><img src="http://mazassumnida.wtf/api/generate_badge?boj=kc1595" alt="Solved.ac 프로필" width="350"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/GeunH"><img src="https://github-readme-stats.vercel.app/api?username=GeunH&show_icons=true&theme=radical" alt="GitHub stats" width="400"></a>
+</p>
 
 ## 공부한 프로그래밍 언어
-- 🌱 I’m currently learning javascript, dart, C++, C, Python
+- 🌱 I’m currently learning JavaScript, Dart, C++, C, Python
