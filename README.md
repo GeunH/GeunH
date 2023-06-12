@@ -1,6 +1,11 @@
 <div align="center">
-  <h1>👋   Geun Hyeok    👋</h1>
-  <h2>    Skills    </h2>
+  <h1>👋   Geun Hyeok    👋 </h1>
+  <p align="center">
+  <a href="https://solved.ac/kc1595"><img src="http://mazassumnida.wtf/api/generate_badge?boj=kc1595" alt="Solved.ac 프로필" width="350"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/GeunH"><img src="https://github-readme-stats.vercel.app/api?username=GeunH&show_icons=true&theme=radical" alt="GitHub stats" width="400"></a>
+</p>
+  <h2 style="font-size: 24px;">Skills</h2>
   <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">&nbsp;&nbsp;
@@ -12,10 +17,4 @@
    <img src="https://img.shields.io/badge/Html5-E34F26.svg?&style=for-the-badge&logo=Html5&logoColor=white" alt="Html5">
 </p>
 
-
-<p align="center">
-  <a href="https://solved.ac/kc1595"><img src="http://mazassumnida.wtf/api/generate_badge?boj=kc1595" alt="Solved.ac 프로필" width="350"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/GeunH"><img src="https://github-readme-stats.vercel.app/api?username=GeunH&show_icons=true&theme=radical" alt="GitHub stats" width="400"></a>
-</p>
 </div>
