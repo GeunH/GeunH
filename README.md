@@ -12,6 +12,3 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/GeunH"><img src="https://github-readme-stats.vercel.app/api?username=GeunH&show_icons=true&theme=radical" alt="GitHub stats" width="400"></a>
 </p>
-
-## 공부한 프로그래밍 언어
-- 🌱 I’m currently learning JavaScript, Dart, C++, C, Python
