@@ -19,7 +19,9 @@
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black" alt="C">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=yellow" alt="C++">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Three.js-000000.svg?&style=for-the-badge&logo=Three.js&logoColor=white" alt="Three.js">&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Html5-E34F26.svg?&style=for-the-badge&logo=Html5&logoColor=white" alt="Html5">
+  <img src="https://img.shields.io/badge/Html5-E34F26.svg?&style=for-the-badge&logo=Html5&logoColor=white" alt="Html5">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white" alt="raspberrypi">&nbsp;&nbsp;
 </p>
    <h2 style="font-size: 24px;">Tools</h2>
    <p align = "center">
