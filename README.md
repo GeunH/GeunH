@@ -41,7 +41,6 @@
       <td><img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white" alt="Visual Studio Code"></td>
       <td><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></td>
       <td><img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse IDE&logoColor=white" alt="Eclipse IDE"></td>
-      <td><img src="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=for-the-badge&logo=Android Studio&logoColor=white" alt="Android Studio"></td>
     </tr>
   </table>
 </div>
